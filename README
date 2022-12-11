@@ -1,0 +1,5 @@
+# dxgi_enum
+
+This little program prints all DXGI adapters and their outputs because I don't know of any easier way of obtaining this information.  
+
+
